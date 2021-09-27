@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="org.idempiere.webservices.feature" />
+        <module name="org.adempiere.report.jasper" />
+        <module name="org.idempiere.jetty.osgi.boot.fragment" />
+        <module name="org.adempiere.base.callout" />
+        <module name="org.adempiere.ui" />
+        <module name="org.adempiere.replication.server.feature" />
+        <module name="org.adempiere.pipo.handlers" />
+        <module name="org.adempiere.pipo" />
+        <module name="org.adempiere.replication" />
+        <module name="org.idempiere.hazelcast.service" />
+        <module name="org.idempiere.equinox.p2.director.feature" />
+        <module name="org.idempiere.hazelcast.service.feature" />
+        <module name="org.adempiere.eclipse.equinox.http.servlet" />
+        <module name="org.adempiere.ui.zk" />
+        <module name="org.compiere.db.oracle.provider" />
+        <module name="org.idempiere.test.feature" />
+        <module name="org.idempiere.felix.webconsole.feature" />
+        <module name="org.idempiere.javadoc" />
+        <module name="org.adempiere.payment.processor" />
+        <module name="org.adempiere.ui.zk.feature" />
+        <module name="org.idempiere.printformat.editor" />
+        <module name="org.idempiere.p2" />
+        <module name="org.idempiere.p2.targetplatform" />
+        <module name="org.compiere.db.postgresql.provider" />
+        <module name="org.adempiere.report.jasper.feature" />
+        <module name="org.adempiere.server.feature" />
+        <module name="org.adempiere.replication.server" />
+        <module name="org.compiere.db.provider.feature" />
+        <module name="org.idempiere.keikai" />
+        <module name="org.adempiere.base.feature" />
+        <module name="org.adempiere.payment.processor.feature" />
+        <module name="org.adempiere.server" />
+        <module name="org.idempiere.felix.webconsole" />
+        <module name="org.adempiere.base" />
+        <module name="org.idempiere.eclipse.platform.feature" />
+        <module name="org.idempiere.webservices" />
+        <module name="org.idempiere.zk.extra" />
+        <module name="org.idempiere.test" />
+        <module name="org.adempiere.report.jasper.library" />
+        <module name="org.apache.ecs" />
+        <module name="org.adempiere.pipo.feature" />
+        <module name="org.adempiere.install" />
+        <module name="org.idempiere.webservices.client.feature" />
+        <module name="org.adempiere.base.process" />
+        <module name="org.adempiere.plugin.utils" />
+        <module name="org.idempiere.zk.feature" />
+        <module name="org.adempiere.replication.feature" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
